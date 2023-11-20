@@ -19,7 +19,7 @@
 
 | 기간 | 내용 | 역할 |
 | --- | --- | ---|
-| 2023.08 ~ 2023.09| <a href="https://github.com/sleepysudal/semiproject_paka">3CINE</a> | 메인 페이지, 상세 페이지 구현, DB설계 |
+| 2023.08 ~ 2023.09| <a href="https://github.com/sleepysudal/SemiProject">3CINE</a> | 메인 페이지, 상세 페이지 구현, DB설계 |
 | 2023.11 ~ 2023.12| <a href="#">4B</a> |  중고상품 검색, 결제 기능 구현 및 백엔드 개발, DB설계  |
 
 
